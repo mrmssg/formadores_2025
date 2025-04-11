@@ -32,5 +32,6 @@ document.addEventListener('DOMContentLoaded', function () {
         document.body.classList.toggle('alto-contraste')
 })
 })
+ScrollReveal().reveal('.tagline', { delay: 500 });
 
 
