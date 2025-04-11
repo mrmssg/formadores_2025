@@ -32,6 +32,9 @@ document.addEventListener('DOMContentLoaded', function () {
         document.body.classList.toggle('alto-contraste')
 })
 })
-ScrollReveal().reveal('.tagline', { delay: 500 });
+ScrollReveal().reveal('.tagline', { delay: 1000 });
+ScrollReveal().reveal('#tropicalia', { delay: 1000 });
+ScrollReveal().reveal('#galeria', { delay: 1000 });
+ScrollReveal().reveal('#contato', { delay: 1000 });
 
 
